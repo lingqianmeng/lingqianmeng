@@ -4,21 +4,20 @@
 
 I'm a developer focused on building diverse hobby projects. Most of them are built with C++.
 
----
+
 
 ### 🚀 Current projects at a glance
 *  [StockMonitor](https://github.com/lingqianmeng/stock-monitor-cpp.git): Light weight portable stock price monitor
 *  [InventoryManager](https://github.com/lingqianmeng/inventory-manager-cpp): Inventory manager aimed to help with household.
 
----
+
 
 ### 📊 My GitHub Stats
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lingqianmeng&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingqianmeng&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lingqianmeng&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lingqianmeng&layout=compact&theme=tokyonight" height="150" />
 </p>
 
----
 
 ### 🛠 Tech Stack & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
