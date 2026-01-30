@@ -1,6 +1,6 @@
 # Hi there, I'm Lingqian 👋
 
-### 👨‍💻 Automotive Engineer | Automotive Diagnostic
+### 👨‍💻 Automotive Engineer | Automotive Diagnostic | Dev with HUMAN in the LOOP !!!
 
 I'm a developer focused on building diverse hobby projects. Most of them are built with C++.
 
