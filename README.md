@@ -16,5 +16,6 @@ I'm a developer focused on building diverse hobby projects. Most of them are bui
 ### 🚀 Current projects at a glance
 *  [StockMonitor](https://github.com/lingqianmeng/stock-monitor-cpp.git): Light weight portable stock price monitor
 *  [InventoryManager](https://github.com/lingqianmeng/inventory-manager-cpp): Inventory manager aimed to help with household.
+*  [OpenClaw] (https://github.com/shirleymbot): The famous Clawdbot/Moltbot/OpenClaw and this is my bot project.
 
 
