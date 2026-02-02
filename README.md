@@ -18,10 +18,3 @@ I'm a developer focused on building diverse hobby projects. Most of them are bui
 *  [InventoryManager](https://github.com/lingqianmeng/inventory-manager-cpp): Inventory manager aimed to help with household.
 
 
-
-### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lingqianmeng&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lingqianmeng&layout=compact&theme=tokyonight" height="150" />
-</p>
-
