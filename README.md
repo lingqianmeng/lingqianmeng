@@ -1,6 +1,6 @@
 # Hi there, I'm Lingqian 👋
 
-### 👨‍💻 Automotive Engineer | Automotive Diagnostic | AI Engineering with Human in the Loop
+### 👨‍💻 Automotive Diagnostic | AI Engineering with Human in the Loop
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
